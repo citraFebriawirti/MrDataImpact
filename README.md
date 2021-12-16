@@ -3,7 +3,7 @@
 
 <!-- Main -->
 <h1 align="center">Mr. Data Impact <img src="https://raw.githubusercontent.com/KelvinMulyawan/KelvinMulyawan/master/wave.gif" width="30px"></h1>
-<h3 align="center"><i>Python, Data, Social Impact</i></h3>
+<h3 align="center"><i>- Python, Data, Social Impact -</i></h3>
 
 <!-- GitHub Status -->
 <h1 align="center">&#x1f4c8; Github Status</h1>
