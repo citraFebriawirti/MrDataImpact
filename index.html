@@ -20,7 +20,7 @@
 </head>
 <body>
     <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg navbar-light">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light">
         <div class="container">
           <a class="navbar-brand" href="https://mrdataimpact.github.io/MrDataImpact/">Mr. Data Impact</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -32,7 +32,10 @@
                 <a class="nav-link active" href="#"><i class="fa fa-user"></i></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="#"><i class="fa fa-code"></i></a>
+                <a class="nav-link active" href="#tech"><i class="fa fa-code"></i></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="#project"><i class="fa fa-tasks"></i></a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -40,7 +43,7 @@
                 </a>
                 <!-- Github Contact -->
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li><a class="dropdown-item" href="https://github.com/MrDataImpact"><i class="fa fa-github"></i></a></li>
+                  <li><a class="dropdown-item" href="https://github.com/MrDataImpact"><i class="fa fa-github"></i>&nbsp;Github</a></li>
                 </ul>
               </li>
             </ul>
@@ -50,10 +53,43 @@
 
     <!-- Main Section -->
     <section id="main">
-        <div class="container">
-            <h2 align="center">Mr. Data Impact</h2>
-            <p align="center" style="font-size:25px;">Python, Data, Social Impact !</p> 
+      <div class="container">
+        <h2 align="center">Mr. Data Impact</h2>
+        <p align="center" style="font-size:25px;">Python, Data, Social Impact !</p> 
+      </div>
+    </section>
+
+    <!-- About Me -->
+
+    <!-- Tech -->
+    <section id="tech">
+      <div class="container">
+        <h2 align="center" style="margin-top: -50px;">Technology and Stacks</h2>
+        <div class="d-flex justify-content-center">
+          <div class="w-25 p-3">
+            <div class="card">
+              <div class="card-header bg-dark text-white" align="center">
+                Python
+              </div>
+            </div>
+            &nbsp;&nbsp;
+            <div class="card">
+              <div class="card-header bg-dark text-white" align="center">
+                SQL
+              </div>
+            </div>
+          </div>
         </div>
-      </section>
+      </div>
+    </section>
+
+    <!-- Project -->
+    <section id="project">
+      <div class="container" align="center">
+        <h2 align="center" style="margin-top: -50px;">Project</h2>
+        <h5><a href="#">Predicting Credit Card Approvals</a></h5>
+        <h5><a href="#">Exploring New York City AirBnB Market</a></h5>
+      </div>
+    </section>
 </body>
 </html>

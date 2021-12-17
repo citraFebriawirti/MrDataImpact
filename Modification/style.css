@@ -1,9 +1,18 @@
-body{
+body {
     font-family: 'Fuzzy Bubbles', cursive;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
-#main {
+#main,
+#tech,
+#project {
     display: flex;
     height: 90vh;
     align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
 }
