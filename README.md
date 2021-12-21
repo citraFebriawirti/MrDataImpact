@@ -3,16 +3,11 @@
 
 <!-- Main -->
 <h1 align="center">Mr. Data Impact <img src="https://raw.githubusercontent.com/KelvinMulyawan/KelvinMulyawan/master/wave.gif" width="30px"></h1>
-<h3 align="center"><i>- Python, Data, Social Impact -</i></h3>
+<h3 align="center">How to use Python to create Social Impact through Data ?</h3>
 
 <!-- Technologies and Tools -->
 <h1 align="center">🔧 Technologies & Tools</h1>
 <div class="inline-block" align="center">
-    <!-- Framework -->
-<!--     <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> -->
-    <!-- Tools -->
     <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
